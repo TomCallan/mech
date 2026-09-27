@@ -162,6 +162,10 @@ world space in this build, so angles are derived from body poses instead.
 - The renderer draws one mesh per part. Instanced rendering is the next step for very
   large scenes.
 
+## Licence
+
+MIT. See `LICENSE`.
+
 ## Credits
 
 Physics: [JoltPhysics.js](https://github.com/jrouwe/JoltPhysics.js) (MIT).
